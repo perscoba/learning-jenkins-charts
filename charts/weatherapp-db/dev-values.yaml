@@ -1,5 +1,4 @@
-
-                     image:
-                        repository: perscoba/learning-jenkins-db
-                        tag: 90
+image:
+   repository: perscoba/learning-jenkins-db
+   tag: 90
                     
