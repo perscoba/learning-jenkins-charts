@@ -1,3 +1,5 @@
-image:
-   repository: perscoba/learning-jenkins-auth
-   tag: 90	            
+
+                    image:
+                        repository: perscoba/learning-jenkins-auth
+                        tag: 91
+	            
