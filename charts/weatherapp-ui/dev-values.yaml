@@ -1,5 +1,4 @@
-
-                    image:
-                        repository: perscoba/learning-jenkins-ui
-                        tag: 92
+image:
+   repository: perscoba/learning-jenkins-ui
+   tag: 92
 		    
