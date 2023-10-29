@@ -1,5 +1,5 @@
-#empty
-image:
-   repository: perscoba/learning-jenkins-auth
- # Overrides the image tag whose default is the chart appVersion.
-    tag: ${BUILD_NUMBER}
+
+                    image:
+                        repository: perscoba/learning-jenkins-auth
+                        tag: 77
+                    
