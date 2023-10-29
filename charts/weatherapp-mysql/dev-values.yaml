@@ -1,5 +1,4 @@
-
-                     image:
-                        repository: perscoba/learning-jenkins-mysql
-                        tag: 89
+image:
+    repository: perscoba/learning-jenkins-mysql
+    tag: 89
                     
