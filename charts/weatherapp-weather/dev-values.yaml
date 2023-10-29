@@ -1,3 +1,5 @@
-image:
-   repository: perscoba/learning-jenkins-weather
-   tag: 89
+
+                    image:
+                        repository: perscoba/learning-jenkins-weather
+                        tag: 90
+		    
